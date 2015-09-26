@@ -1,8 +1,8 @@
 require "printer/version"
 
 class Printer
-
+a@=""
   def self.printer
-    return puts "Your first gems is working....."
+    return @a = "Your first gems is working....."
    end
 end
