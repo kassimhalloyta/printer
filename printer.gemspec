@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{testing to create my first gem}
   spec.description   = %q{testing to create my first gem}
-  spec.homepage      = "testing to create my first gem"
+
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
